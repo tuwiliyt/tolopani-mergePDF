@@ -28,10 +28,10 @@ Coba aplikasi ini secara online:
 Berikut adalah beberapa cuplikan layar dari aplikasi:
 
 1. **Halaman Utama**
-   ![Halaman Utama](https://via.placeholder.com/800x400.png?text=Halaman+Utama)
+   ![Tolopani Gabung PDF](https://raw.githubusercontent.com/tuwiliyt/tolopani-mergePDF/refs/heads/main/ss.jpg)
 
 2. **Penggabungan Berhasil**
-   ![Penggabungan Berhasil](https://via.placeholder.com/800x400.png?text=Penggabungan+Berhasil)
+   ![Penggabungan Berhasil](https://raw.githubusercontent.com/tuwiliyt/tolopani-mergePDF/refs/heads/main/ss2.jpg)
 
 ## Cara Menggunakan
 1. Buka halaman [Tolopani Gabung PDF](https://tuwiliyt.github.io/tolopani-gabung-pdf/).
